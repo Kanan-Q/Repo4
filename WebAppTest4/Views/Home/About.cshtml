@@ -1,5 +1,4 @@
-﻿
-@model List<Employee>
+﻿@model List<Employee>
 
 
 
@@ -90,23 +89,25 @@
         <div class="row g-4">
             @foreach (var item in Model)
             {
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item rounded overflow-hidden">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="~/images/Employees/@item.Photo" alt="">
-                            <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                if (item.IsDeleted==false)
+                {
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item rounded overflow-hidden">
+                            <div class="position-relative">
+                                <img class="img-fluid" src="~/images/Employees/@item.Photo" alt="">
+                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="text-center p-4 mt-3">
+                                <h5 class="fw-bold mb-0">@item.Name</h5>
+                                <small>@item.Surname</small>
                             </div>
                         </div>
-                        <div class="text-center p-4 mt-3">
-                            <h5 class="fw-bold mb-0">@item.Name</h5>
-                            <small>@item.Surname</small>
-                        </div>
                     </div>
-                </div>
+                }
             }
 
         </div>
