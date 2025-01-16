@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\viewmodels\\employees\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\viewmodels\\employees\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\viewmodels\\employees\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\viewmodels\\employees\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\views\\home\\testimonital.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\views\\home\\testimonital.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|c:\\users\\ii novbe\\source\\repos\\webapptest4\\webapptest4\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87455266-54A1-4A1B-92D6-B413B5CA8209}|WebAppTest4\\WebAppTest4.csproj|solutionrelative:webapptest4\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Models\\Employee.cs",
+              "RelativeToolTip": "WebAppTest4\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:48:58.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoBAAAAAAAAAAAYwFsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:07:01.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:07:18.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:09:52.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:09:10.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:09:35.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Models\\Department.cs",
+              "RelativeToolTip": "WebAppTest4\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:49:22.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAIwIUBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:06:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:09:04.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppTest4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:25:45.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:37:11.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "RelativeToolTip": "WebAppTest4\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:54:30.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAewE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:04:28.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:04:52.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeToolTip": "WebAppTest4\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:54:10.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:09:20.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:10:03.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:07:10.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebAppTest4\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:04:01.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:39:46.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:26:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "WebAppTest4\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:49:08.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAALMAAAAAAAAAAAAwwMcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:38:26.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAtwD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:36:11.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Program.cs",
+              "RelativeToolTip": "WebAppTest4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:18:41.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "WebAppTest4\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:54:00.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "RelativeToolTip": "WebAppTest4\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:54:20.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppTest4\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\appsettings.json",
+              "RelativeToolTip": "WebAppTest4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T10:33:37.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppTest4\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebAppTest4\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:24:08.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Testimonital.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Home\\Testimonital.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest4\\Views\\Home\\Testimonital.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\Views\\Home\\Testimonital.cshtml",
+              "RelativeToolTip": "WebAppTest4\\Views\\Home\\Testimonital.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAnwHwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:39:18.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebAppTest4\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\WebAppTest4\\WebAppTest4\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebAppTest4\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-16T10:18:34.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
